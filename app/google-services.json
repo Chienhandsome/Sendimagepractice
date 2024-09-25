@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19486459181",
+    "project_id": "send-image-pratice",
+    "storage_bucket": "send-image-pratice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19486459181:android:6e4c37faeff06a5e7d7fa4",
+        "android_client_info": {
+          "package_name": "com.example.sendimagepractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3j2cOiPvEZTTXnKQd4H3KYJlre9ncwSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
